@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1184'
     url: http://www.gutenberg.org/2009/agents/1184
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19589#A-Svmmarie-and-Trve-Discovrse-of-Sir-Frances-Drakes-VVest-Indian-VoyageDomingo-Cartagena--amp_
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2006-10-20'
 gutenberg_type: Text
