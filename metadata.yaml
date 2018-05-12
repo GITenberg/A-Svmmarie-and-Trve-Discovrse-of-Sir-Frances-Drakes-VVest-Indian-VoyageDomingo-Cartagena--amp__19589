@@ -1,0 +1,33 @@
+_repo: A-Svmmarie-and-Trve-Discovrse-of-Sir-Frances-Drakes-VVest-Indian-VoyageDomingo-Cartagena--amp__19589
+_version: 0.1.0
+alternative_title: Summarie and true discourse of Sir Frances Drakes West Indian voyage
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bigges, Walter
+    alias: Biggs, Walter
+    deathdate: 1586
+    gutenberg_agent_id: '1184'
+    url: http://www.gutenberg.org/2009/agents/1184
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2006-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19589'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West Indies Expedition, 1585-1586'
+- !lcsh 'Drake, Francis, approximately 1540-1596 -- Travel -- West Indies'
+- !lcsh 'Explorers -- America -- Biography'
+- !lcc 'E011'
+- !lcsh 'Explorers -- Great Britain -- Biography'
+title: "A Svmmarie and Trve Discovrse of Sir Frances Drakes VVest Indian Voyage\r\n\
+  Wherein were taken, the townes of Saint Iago, Sancto Domingo, Cartagena & Saint\
+  \ Augustine."
+url: http://www.gutenberg.org/ebooks/19589
